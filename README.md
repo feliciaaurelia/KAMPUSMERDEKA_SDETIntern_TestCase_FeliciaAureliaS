@@ -14,3 +14,5 @@ Here are the steps on how to run the automation script:
 7. To see the script code, click the "script" button at the bottom of the work sheet.
 8. To run the script code, click run at the top or using Ctrl + Shift + A.
 9. Automated testing will be automatically running via the main browser.
+
+Notes: The script code is in the test case folder.
